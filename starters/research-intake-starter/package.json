@@ -1,0 +1,12 @@
+{
+  "name": "research-intake-starter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reusable research and intake web-form starter with Google Sheets persistence.",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
