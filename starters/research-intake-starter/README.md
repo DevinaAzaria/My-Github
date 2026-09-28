@@ -96,3 +96,10 @@ The first production pattern that informed this starter was:
 **KERSAA KLS Intake Web v1**
 
 The starter deliberately removes KLS learner semantics and production identifiers so it can be reused by Devina for unrelated research or engineering projects.
+
+
+## Troubleshooting & production lessons
+
+The starter preserves the operational lessons from its first real deployment, including the exact checklist for Google Sheets API enablement, Cloud Run runtime identity, spreadsheet sharing, OAuth scopes, deployment verification, and synthetic test cleanup.
+
+See [docs/TROUBLESHOOTING.md](./docs/TROUBLESHOOTING.md).
