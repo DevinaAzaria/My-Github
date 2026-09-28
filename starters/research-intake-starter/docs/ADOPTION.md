@@ -70,3 +70,10 @@ If an adopting project creates a generally useful capability, such as:
 - alternative database adapter
 
 port the generic improvement back into this starter without importing project-specific data or naming.
+
+
+## Troubleshooting
+
+For the production-tested checklist covering Google Sheets API enablement, Cloud Run service accounts, spreadsheet sharing, OAuth scopes, stale revisions, and synthetic end-to-end verification, see:
+
+[`TROUBLESHOOTING.md`](./TROUBLESHOOTING.md)
